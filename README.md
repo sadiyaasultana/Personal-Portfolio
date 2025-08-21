@@ -62,7 +62,7 @@ portfolio/
 
 1. Clone the repository:
 
-git clone https://github.com/your-github/Personal-Portfolio.git
+git clone (https://github.com/sadiyaasultana/Personal-Portfolio.git)
 
 2. Open index.html in your browser to view the portfolio.
 
