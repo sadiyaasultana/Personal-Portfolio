@@ -43,7 +43,7 @@ Description: A full-stack AI-powered chatbot application with a responsive front
 
 Technologies: HTML, CSS, JavaScript, Flask, Python, OpenAI API
 
-GitHub
+GitHub: https://github.com/sadiyaasultana/AI-Chatbot
 
 📁 Project Structure 
 
