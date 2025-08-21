@@ -18,7 +18,7 @@ Description: A full-stack Netflix clone with user authentication, movie streamin
 
 Technologies: HTML, CSS, JavaScript, Flask, Python
 
-GitHub
+GitHub : https://github.com/sadiyaasultana/Netflix-clone
 
 
 2. Basic To-Do App
@@ -27,7 +27,7 @@ Description: A simple To-Do application with dynamic task management; add/remove
 
 Technologies: HTML, CSS, JavaScript
 
-GitHub
+GitHub: https://github.com/sadiyaasultana/Basic-To-Do
 
 3. Student Guidance Landing Page
 
@@ -35,7 +35,7 @@ Description: A responsive landing page built using HTML and Tailwind CSS to show
 
 Technologies: HTML, Tailwind CSS
 
-GitHub
+GitHub: https://github.com/sadiyaasultana/Student-Guidance-Landing-Page
 
 4. AI Chatbot – Full-Stack Web App
 
